@@ -13,7 +13,7 @@
 1. 序
     1. [导读](https://shanyue.tech/op/introduction.html)
     1. [序·当我有一台服务器时我做了什么](https://shanyue.tech/op/when-server.html)
-    1. [序·当我有一台服务器时我做了什么(2019)]() - TODO
+    1. [序·当我有一台服务器时我做了什么(2019)](https://shanyue.tech/op/when-server-2019.html)
     1. [序·个人服务器应用开发架构推荐]() - TODO
 1. 如果你只想搭建博客
     1. [如果你只想搭一个博客](https://shanyue.tech/op/if-you-want-a-blog.html)
